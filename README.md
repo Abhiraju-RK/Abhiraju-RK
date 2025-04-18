@@ -1,6 +1,6 @@
 • 👋 Hi, I’m Abhiraju
 
-• 🙂 I’m a junior wed developer
+• 🙂 I’m a junior web developer
 
 • 👀 Experience in Python,Django,HTML,css,Api,javascript
 
