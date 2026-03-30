@@ -2,7 +2,7 @@
 
 • 🙂 I’m a junior developer
 
-• 👀 Experience in Python,Django,HTML,css,Api,javascript
+• 👀 Knowledge in Python,Django,HTML,css,Api,javascript,Reactjs
 
 • 👨‍💻 I’m quick learner i like to learn more technologies
 
