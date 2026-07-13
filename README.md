@@ -102,65 +102,6 @@ No CS degree, no traditional pipeline — just consistent effort. If you're read
 
 <br/>
 
-## 📊 GitHub Stats
-
-<div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Abhiraju-RK&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhiraju-RK&layout=compact&theme=radical&hide_border=true" />
-</div>
-
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhiraju-RK&theme=radical&hide_border=true" />
-</div>
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Abhiraju-RK&theme=radical&no-frame=true&row=1&column=6" />
-</div>
-
-<br/>
-
-## 🌟 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 🧭 Travel Diary
-Full stack travel planning platform with hotel/restaurant booking, Razorpay payment integration, and a built-in budget estimator.
-<br/>
-`Django` `Bootstrap 5` `PostgreSQL`
-
-</td>
-<td width="50%">
-
-### 📄 Document Scanner
-Real-time edge detection with perspective transformation — turns a photo into a clean, scanned document.
-<br/>
-`Python` `OpenCV`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🎯 Face Recognition Attendance
-Automated attendance system using real-time face detection and recognition, backed by SQLite.
-<br/>
-`Python` `OpenCV` `SQLite`
-
-</td>
-<td width="50%">
-
-### 🏃 Motion & Object Tracker
-Real-time motion detection and color-based object tracking for monitoring use cases.
-<br/>
-`Python` `OpenCV`
-
-</td>
-</tr>
-</table>
-
-<br/>
 
 ## 🤝 Let's Build Something
 
