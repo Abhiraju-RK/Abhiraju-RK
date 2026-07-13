@@ -56,34 +56,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Abhiraju-RK&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhiraju-RK&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhiraju-RK&theme=tokyonight&hide_border=true" alt="streak stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Abhiraju-RK&theme=tokyonight&no-frame=true&row=1&column=6" alt="trophies" />
-</p>
-
----
-
-### 🌟 Featured Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| 🧭 **Travel Diary** | Full stack travel planning app with hotel/restaurant booking, Razorpay integration & budget estimator | Django, Bootstrap 5, PostgreSQL |
-| 📄 **Document Scanner** | Real-time edge detection + perspective transform for clean scanned output | Python, OpenCV |
-| 🎯 **Face Recognition Attendance System** | Automated attendance using face detection & recognition | Python, OpenCV, SQLite |
-| 🏃 **Motion Detector & Object Tracker** | Real-time motion detection and color-based object tracking | Python, OpenCV |
-
----
-
 ### 📫 Let's Connect
 
 <p align="center">
