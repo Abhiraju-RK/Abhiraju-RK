@@ -118,10 +118,6 @@ I'm currently looking for a **Junior Python Full Stack Developer** role in Triva
 
 <br/><br/>
 
-*"The best time to plant a tree was 20 years ago. The second best time is now."*
-<br/>
-**— I'm still planting. Thanks for stopping by.**
-
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:2E9EF7&height=100&section=footer" />
